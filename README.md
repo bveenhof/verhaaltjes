@@ -1,2 +1,2 @@
 # verhaaltjes
-Simple StoryBook repo for showcase purposes
+Simple repo for showcase purposes
